@@ -23,6 +23,7 @@
 - SSAFY 공통프로젝트 최우수상 (1등)
 - SSAFY 관통프로젝트 우수상 (2등)
 
+---
 ### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30"/>
@@ -49,6 +50,6 @@
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="30"/>
 </p>
 
-
+---
 ### 📊 PS skill
 <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=1202yjk"/>
