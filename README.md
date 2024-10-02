@@ -4,6 +4,8 @@
 - SSAFY(Samsung Software Academy For Youth) 11기
   - Python 과정 수료
   - 2024.01 ~
+ 
+---
 
 ### 🛠 기술 스택
 <p>
