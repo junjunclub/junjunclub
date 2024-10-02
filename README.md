@@ -1,13 +1,24 @@
 ## 👋 김여준 (Kim, yeojun)
 
-### 📚 교육
+### 📚 Education
 - SSAFY(Samsung Software Academy For Youth) 11기
   - Python 과정 수료
   - 2024.01 ~
  
 ---
 
-### 🛠 기술 스택
+### 💻 Project
+- KidsLink (웹RTC 기반 학부모, 교사 연결 서비스)
+- 꼬북집 (블록체인을 이용한 멸종위기 동물 관리 프로젝트)
+
+---
+
+### 📄 Certificate
+- 정보처리기사
+
+---
+
+### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30"/>
@@ -34,5 +45,5 @@
 </p>
 ---
 
-### 📊 PS
+### 📊 PS skill
 <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=1202yjk"/>
