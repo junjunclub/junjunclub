@@ -28,5 +28,5 @@
 ---
 
 ### 📊 GitHub 활동 통계
-<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=1202yjk">
+<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=1202yjk"/>
 ![Junjunclub's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjunclub&show_icons=true&theme=radical)
