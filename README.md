@@ -1,4 +1,9 @@
-## 👋 Welcome to my Github!
+## 👋 김여준 (Kim, yeojun)
+
+### 📚 교육
+- SSAFY(Samsung Software Academy For Youth) 11기
+  - Python 과정 수료
+  - 2024.01 ~
 
 ### 🛠 기술 스택
 <p>
@@ -27,6 +32,5 @@
 </p>
 ---
 
-### 📊 GitHub 활동 통계
+### 📊 PS
 <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=1202yjk"/>
-![Junjunclub's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjunclub&show_icons=true&theme=radical)
