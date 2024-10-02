@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30"/>
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="30"/>
 </p>
----
+
 
 ### 📊 PS skill
 <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=1202yjk"/>
