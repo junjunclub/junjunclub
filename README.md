@@ -56,3 +56,5 @@
 ---
 ### 📊 PS skill
 <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=1202yjk"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjunclub&hide=contribs,prs&show_icons=true&theme=graywhite)
