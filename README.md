@@ -56,5 +56,5 @@
 
 ---
 ### 📊 PS skill
-#### <p>[1d 1ps](https://solved.ac/profile/1202yjk)</p>
+#### 1 day 1 ps
 <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=1202yjk"/>
