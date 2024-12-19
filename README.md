@@ -1,10 +1,10 @@
 ## 👋 김여준 (Kim, yeojun)
 
-### 📚 Education
-- SSAFY(Samsung Software Academy For Youth) 11기
-  - Python 과정 수료
-  - 2024.01 ~
- 
+### 📚 Experience
+- 👨‍🎓 Chosun Univ. Electrical Engineering (2015 ~ 2021)
+- RepNation Inc. (Founder & CEO) (2022 ~ 2023)
+- 📘Samsung Software Academy For Youth(SSAFY) 11th (2024)
+- 💼Samsung Software Academy For Youth(SSAFY) 12th Coach (2025)
 ---
 
 ### 💻 Project
@@ -25,6 +25,7 @@
 ---
 
 ### 🏆 Awards
+- SSAFY 고용노동부 장관상 / 최우수 수료
 - SSAFY 자율프로젝트 우수상 (1등)
 - SSAFY 특화프로젝트 우수상 (3등)
 - SSAFY 공통프로젝트 우수상 (1등)
