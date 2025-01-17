@@ -1,7 +1,6 @@
 ## 👋 김여준 (Kim, yeojun)
 
 ### 📚 Experience
-- 👨‍🎓 Chosun Univ. Electrical Engineering (2015 ~ 2021)
 - 🦎 RepNation Inc. (Founder & CEO) (2022 ~ 2023)
 - 📘Samsung Software Academy For Youth(SSAFY) 11th (2024)
 - 💼Samsung Software Academy For Youth(SSAFY) 12th Coach (2025)
