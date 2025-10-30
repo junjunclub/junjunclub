@@ -3,7 +3,8 @@
 ### 📚 Experience
 - 🦎 RepNation Inc. (Founder & CEO) (2022 ~ 2023)
 - 📘Samsung Software Academy For Youth(SSAFY) 11th (2024)
-- 💼Samsung Software Academy For Youth(SSAFY) 12th Coach (2025)
+- 💼Samsung Software AI Academy For Youth(SSAFY) 12th Coach (2024.12 - 2025.06)
+- 💼Samsung Software AI Academy For Youth(SSAFY) 13th Coach (2025.06 - ing)
 ---
 
 ### 💻 Project
