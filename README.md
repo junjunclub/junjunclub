@@ -15,6 +15,8 @@
 
 ### 🏆 Awards
 - SSAFY 고용노동부 장관상 / 최우수 수료
+- Profitlab Hackathon 2nd-place
+- Fast Campus Builderthon Finalist
 
 ---
 ### 🛠 Tech Stack
