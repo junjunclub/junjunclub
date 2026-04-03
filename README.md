@@ -9,6 +9,7 @@
 
 ### 🧑‍💻 Opensource
 - Line/Armeria | Add VirtualHost support for random ports | [PR Link](https://github.com/line/armeria/pull/6603)
+- Line/Central-Dogma | Fix Gradle dependency and Java syntax in client-java guide | [PR Link](https://github.com/line/centraldogma/pull/1285)
 
 ### 📄 Certificate
 - 정보처리기사
