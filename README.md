@@ -7,6 +7,9 @@
 - 💼Samsung Software AI Academy For Youth(SSAFY) 13th Coach (2025.06 - 2026.01)
 - 💼All4land Smart Maritime R&D center (2026.03 - ing)
 
+### 🧑‍💻 Opensource
+- Line/Armeria [Add VirtualHost support for random ports](https://github.com/line/armeria/pull/6603)
+
 ### 📄 Certificate
 - 정보처리기사
 - SQLD
