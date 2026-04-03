@@ -8,7 +8,7 @@
 - 💼All4land Smart Maritime R&D center (2026.03 - ing)
 
 ### 🧑‍💻 Opensource
-- Line/Armeria [Add VirtualHost support for random ports](https://github.com/line/armeria/pull/6603)
+- Line/Armeria | Add VirtualHost support for random ports | [PR Link](https://github.com/line/armeria/pull/6603)
 
 ### 📄 Certificate
 - 정보처리기사
