@@ -8,9 +8,9 @@
 - 💼All4land Smart Maritime R&D center (2026.03 - ing)
 
 ### 🧑‍💻 Opensource
-- Line/Armeria | Add VirtualHost support for random ports | [#6410](https://github.com/line/armeria/pull/6603)
-- Line/Central-Dogma | Fix Gradle dependency and Java syntax in client-java guide | [#1285](https://github.com/line/centraldogma/pull/1285)
-- Apache/Seatunnel | Implement proper dry-run mode with progressive validation layer0 | [#10763](https://github.com/apache/seatunnel/pull/10763)
+- Line/Armeria | Add VirtualHost support for random ports [(#6410)](https://github.com/line/armeria/pull/6603)
+- Line/Central-Dogma | Fix Gradle dependency and Java syntax in client-java guide [(#1285)](https://github.com/line/centraldogma/pull/1285)
+- Apache/Seatunnel | Implement proper dry-run mode with progressive validation layer0 [(#10763)](https://github.com/apache/seatunnel/pull/10763)
 
 ### 📄 Certificate
 - 정보처리기사
