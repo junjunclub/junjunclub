@@ -11,6 +11,7 @@
 - Line/Armeria | Add VirtualHost support for random ports [(#6410)](https://github.com/line/armeria/pull/6603)
 - Line/Central-Dogma | Fix Gradle dependency and Java syntax in client-java guide [(#1285)](https://github.com/line/centraldogma/pull/1285)
 - Apache/Seatunnel | Implement proper dry-run mode with progressive validation layer0 [(#10763)](https://github.com/apache/seatunnel/pull/10763)
+- Apache/Seatunnel | Add connect dry-run validation1 [(#11186)](https://github.com/apache/seatunnel/pull/11186)
 
 ### 📄 Certificate
 - 정보처리기사
