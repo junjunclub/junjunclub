@@ -12,6 +12,8 @@
 - Line/Central-Dogma | Fix Gradle dependency and Java syntax in client-java guide [(#1285)](https://github.com/line/centraldogma/pull/1285)
 - Apache/Seatunnel | Implement proper dry-run mode with progressive validation layer0 [(#10763)](https://github.com/apache/seatunnel/pull/10763)
 - Apache/Seatunnel | Add connect dry-run validation1 [(#11186)](https://github.com/apache/seatunnel/pull/11186)
+- Apache/Seatunnel | Support --dry-run connect for Redis source and sink [#12431](https://github.com/apache/seatunnel/pull/12431)
+- Line/Central-Dogma | Ask before overwriting an existing file when creating a new file in the web UI | [#1371](https://github.com/line/centraldogma/pull/1371)
 
 ### 📄 Certificate
 - 정보처리기사
